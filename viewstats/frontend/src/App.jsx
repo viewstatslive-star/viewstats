@@ -4,7 +4,7 @@ import supabase from './lib/supabase';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import Event from './pages/Event';
-import Performance from './pages/Performance';
+import Performance from './pages/performance';
 import NOA from './pages/NOA';
 
 function App() {
